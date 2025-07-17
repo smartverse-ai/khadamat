@@ -1,8 +1,8 @@
-export default function HomePage() {
+export default function Home() {
   return (
-    <main className="p-10">
-      <h1 className="text-4xl font-bold">مرحبًا بك في موقع خدمات الذكاء الاصطناعي</h1>
-      <p className="mt-4 text-lg">اختر أداة من القائمة للبدء.</p>
+    <main>
+      <h1>مرحبًا بك في خدمات</h1>
+      <p>هذا هو الموقع الرئيسي.</p>
     </main>
   );
 }
