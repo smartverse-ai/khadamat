@@ -1,8 +1,9 @@
-export default function Home() {
+// app/page.tsx
+export default function HomePage() {
   return (
     <main>
-      <h1>مرحبًا بك في خدمات</h1>
-      <p>هذا هو الموقع الرئيسي.</p>
+      <h1>أهلاً بك في خدمــات!</h1>
+      <p>موقع خدمات يعمل الآن</p>
     </main>
   );
 }
